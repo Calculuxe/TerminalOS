@@ -11,4 +11,5 @@ import time
 import threading
 import pytz
 import sys
-If you are going to start the exe, then just set it up like normal! Done!
+If you are going to start the exe, then well, it's not avalible here, but it is at: 
+[https://drive.google.com/drive/folders/1UkUf8GIQ2QeGTB6s93aJLXrE2YhqSVU1?usp=sharing](url)
